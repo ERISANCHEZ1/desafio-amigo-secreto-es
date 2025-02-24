@@ -32,6 +32,8 @@ Es una aplicación que permite a los usuarios ingresar nombres de amigos en una 
 
 ![image](https://github.com/user-attachments/assets/ffb90952-e61b-427c-8b77-24b3bc9045e1)
 
+ 
+
 🔧Tecnologías utilizadas
 
 🎨 HTML, CSS y JavaScript
