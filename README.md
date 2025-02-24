@@ -2,11 +2,11 @@
 Es una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
 🚀 Características
-- ✅ Crear una aplicación que permita a los usuarios ingresar nombres de sus amigos y luego realizar un sorte aleatorio para determinar quien es el amigo secreto.
-- ✅ la aplicación debe permitir que se agreguen nombres a través de un campo texto y un boton llamado añadir
+- ✅ Crear una aplicación que permita a los usuarios ingresar nombres de sus amigos y luego realizar un sorteo aleatorio para determinar quien es el amigo secreto.
+- ✅ la aplicación debe permitir que se agreguen nombres a través de un campo texto y un botón llamado añadir
 - ✅ Debe mostrarlos en la parte inferior en forma de lista
-- ✅ Se debe realizar la validación de los datos de entrada, es decir, si ingresa nombre vacio, debe ostrarse un mensaje de alerta "Por favor ingresar un nombre valido".
-- ✅ Debe crearse un boton sortear amigo, y la aplicación debe escoger un nombre de emanera aleatoria y mostrarlo en la pantalla con el siguiente mensaje: "El amigo secreto sorteado y seleccionado es: " 
+- ✅ Se debe realizar la validación de los datos de entrada, es decir, si ingresa nombre vacío, debe ostrarse un mensaje de alerta "Por favor ingresar un nombre valido".
+- ✅ Debe crearse un boton sortear amigo, y la aplicación debe escoger un nombre de manera aleatoria y mostrarlo en la pantalla con el siguiente mensaje: "El amigo secreto sorteado y seleccionado es: " 
 
 ## 🛠 Instalación y Uso
 
